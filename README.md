@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Heather/Dyad.png?branch=master)](https://travis-ci.org/Heather/Dyad)
+
  - Monad
  - Dyad
  - Triad
