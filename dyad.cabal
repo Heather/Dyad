@@ -1,0 +1,22 @@
+name:          dyad
+category:      Control
+version:       0.0.1
+author:        Heather Cynede
+maintainer:    Heather Cynede <Heather@live.ru>
+license:       BSD3
+synopsis:      Dyad
+description:
+  Dyad
+
+build-type: Simple
+cabal-version: >= 1.8
+
+library
+  Hs-Source-Dirs: src
+
+  Exposed-Modules:
+    Control.Dyad
+
+  Build-Depends:
+    base >= 4.3 && < 5
+    , base-unicode-symbols
